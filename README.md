@@ -1,2 +1,2 @@
-# Cour-Counter
+# Court-Counter
 Score Keeping App
